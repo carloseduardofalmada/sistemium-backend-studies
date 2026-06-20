@@ -1,18 +1,18 @@
 # Apresentação
 
-## Olá, pessoal
+## Olá, pessoal!
 
-Meu nome é **Rafael Foggia**, tenho **18 anos** e estou cursando o **primeiro semestre de Análise e Desenvolvimento de Sistemas (ADS)**.
+Meu nome é **Carlos Eduardo**, tenho **19 anos** e estou retornando ao mundo do desenvolvimento de software aos poucos.
 
-Conheci a programação por meio de um curso técnico que realizei durante o ensino médio. Essa experiência me permitiu ter um primeiro contato com a área, compreender melhor suas possibilidades e despertar meu interesse pelo desenvolvimento de software.
+Já tive alguma experiência na área, mas, por decisões que tomei no passado, não segui adiante naquele momento. Agora estou retomando essa jornada com mais maturidade e determinação.
 
 ## Objetivos
 
-Hoje, entro na **Sistemium** com o objetivo de aprender, evoluir profissionalmente e adquirir experiência prática em projetos reais.
+Busco aprender continuamente, evoluir minhas habilidades e contribuir ao máximo com a equipe, agregando valor aos projetos e ao ambiente de trabalho.
 
-## Foco de Carreira
+## Sobre mim
 
-Meu foco inicial será o **desenvolvimento backend**, buscando aprofundar meus conhecimentos em lógica, arquitetura e construção de sistemas. No entanto, pretendo expandir minhas habilidades ao longo do tempo para me tornar um **desenvolvedor full stack**.
+Sou uma pessoa **comunicativa**, gosto de colaborar e espero ser um companheiro de equipe com quem todos possam contar no dia a dia.
 
 ## Considerações Finais
 
