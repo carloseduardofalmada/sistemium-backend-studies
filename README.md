@@ -17,3 +17,7 @@ Meu foco inicial será o **desenvolvimento backend**, buscando aprofundar meus c
 ## Considerações Finais
 
 Estou animado para fazer parte da equipe, aprender com os profissionais da empresa e contribuir da melhor forma possível para os desafios que surgirem.
+
+## Observações
+
+Exercícios desenvolvidos para prática de lógica em Python para dar seguimento a trilha back-end.
