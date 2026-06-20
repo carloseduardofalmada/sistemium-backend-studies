@@ -14,4 +14,10 @@ Busco aprender continuamente, evoluir minhas habilidades e contribuir ao máximo
 
 Sou uma pessoa **comunicativa**, gosto de colaborar e espero ser um companheiro de equipe com quem todos possam contar no dia a dia.
 
-Obrigado pela oportunidade e conto com vocês nessa nova fase!
+## Considerações Finais
+
+Estou animado para fazer parte da equipe, aprender com os profissionais da empresa e contribuir da melhor forma possível para os desafios que surgirem.
+
+## Observações
+
+Exercícios desenvolvidos para prática de lógica em Python para dar seguimento a trilha back-end.
